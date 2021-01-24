@@ -36,7 +36,9 @@ namespace Desafio_01___4_d
 
                 //Salida X
                 Console.WriteLine("El valor de x es = " + x);
-
+                    
+                
+                //video solución https://youtu.be/0yNeT2FA-fw?t=367
 
             }
         }
