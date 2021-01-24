@@ -11,7 +11,7 @@ namespace Desafio_02___2_sln_triangulos
 			double t = double.Parse(Console.ReadLine());
 
 			// Entrada del usuario de la variable a
-			Console.Write("Ingrese a: ");
+			Console.Write("Ingrese a en grados: ");
 			double a = double.Parse(Console.ReadLine());
 
 			double aR= a * (Math.PI/180);
