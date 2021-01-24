@@ -32,6 +32,9 @@ namespace Desafio_01___4_b
 
 
 			Console.WriteLine("El valor de z =   " + z);
+		
+		//video solución https://youtu.be/0yNeT2FA-fw?t=185
+		
 		}
     }
 }
