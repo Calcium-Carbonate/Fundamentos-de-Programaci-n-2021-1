@@ -6,11 +6,11 @@ namespace Desafio_02___2_sln_triangulos
     {
         static void Main(string[] args)
         {
-			// Entrada del usuario de la variable X1
+			// Entrada del usuario de la variable t
 			Console.Write("Ingrese t: ");
 			double t = double.Parse(Console.ReadLine());
 
-			// Entrada del usuario de la variable Y1
+			// Entrada del usuario de la variable a
 			Console.Write("Ingrese a: ");
 			double a = double.Parse(Console.ReadLine());
 
@@ -27,8 +27,7 @@ namespace Desafio_02___2_sln_triangulos
 			Console.WriteLine("El valor dex  es =  " + x  ) ;
 
 
-			// Entrada del usuario de las variables restantes
-			// ...
+			
 		}
 	}
 }
