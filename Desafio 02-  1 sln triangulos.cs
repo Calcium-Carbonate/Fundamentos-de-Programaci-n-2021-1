@@ -37,7 +37,7 @@ namespace Ejercicio1
             Console.WriteLine("El valor del ángulo a es = " + a + " grados");
         
 
-
+            //Video solución https://youtu.be/Kcdbt3Mj3RM
 
         }
     }
