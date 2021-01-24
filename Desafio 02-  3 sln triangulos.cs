@@ -28,6 +28,8 @@ namespace Desafio_02___03_sln_triangulos
 			Console.WriteLine("El valor del ángulo a es = " + a + " grados");
 			Console.WriteLine("El valor de la hipotenusa es = " + t);
 			Console.WriteLine("El valor de Y es = " + y);
+		
+		//video solución https://youtu.be/Kcdbt3Mj3RM
 
 		}
 	}
