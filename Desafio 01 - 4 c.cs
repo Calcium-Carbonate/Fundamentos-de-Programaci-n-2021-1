@@ -24,7 +24,9 @@ namespace Desafio_01___4_c
 
 
             Console.WriteLine("El valor de y es =  " + y);
-
+            
+            
+            //video solución https://youtu.be/0yNeT2FA-fw?t=277
 
         }
     }
