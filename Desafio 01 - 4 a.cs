@@ -42,9 +42,9 @@ namespace Desafio_01___4
 
 			Console.WriteLine("El valor de x =   " + x );
 			
+			//video solución https://youtu.be/0yNeT2FA-fw
 
-
-
+		
 		}
 	}
 }
