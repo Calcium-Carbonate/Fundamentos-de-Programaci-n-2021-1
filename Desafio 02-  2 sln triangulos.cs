@@ -26,7 +26,7 @@ namespace Desafio_02___2_sln_triangulos
 			Console.WriteLine("El valor de y es =  " + y  ) ;
 			Console.WriteLine("El valor de z  es =  " + z  ) ;
 
-
+		//video solución https://youtu.be/Kcdbt3Mj3RM
 			
 		}
 	}
