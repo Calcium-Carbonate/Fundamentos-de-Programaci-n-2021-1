@@ -18,9 +18,9 @@ namespace Desafio_02___2_sln_triangulos
 
 			double c = 180 - (90 + a);
 
-			double y = t * Math.Cos(aR);
+			double z = t * Math.Cos(aR);
 
-			double z = t * Math.Sin(aR);
+			double y = t * Math.Sin(aR);
 
 			Console.WriteLine("El valor de c es =  " + c + "  grados" ) ;
 			Console.WriteLine("El valor de y es =  " + y  ) ;
