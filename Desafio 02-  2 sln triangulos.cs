@@ -20,11 +20,11 @@ namespace Desafio_02___2_sln_triangulos
 
 			double y = t * Math.Cos(aR);
 
-			double x = t * Math.Sin(aR);
+			double z = t * Math.Sin(aR);
 
 			Console.WriteLine("El valor de c es =  " + c + "  grados" ) ;
 			Console.WriteLine("El valor de y es =  " + y  ) ;
-			Console.WriteLine("El valor dex  es =  " + x  ) ;
+			Console.WriteLine("El valor de z  es =  " + z  ) ;
 
 
 			
