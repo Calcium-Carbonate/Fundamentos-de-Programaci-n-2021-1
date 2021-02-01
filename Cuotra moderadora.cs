@@ -49,6 +49,8 @@ namespace Desafio_02_Calculo_Cuota_Moderadora
 
 
         }
+        
+        //video solución https://youtu.be/YrY3qt-Dsmo?t=192
     }
     }
 
