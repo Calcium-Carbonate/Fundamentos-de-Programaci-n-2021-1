@@ -290,9 +290,12 @@ namespace Tema_ipos_de_contrato
                         Console.WriteLine("Sus ingresos anuales son " + salarioanual);
 
                     }
+                    
+                  
 
                 }
             }
+            //https://youtu.be/wd5UElXMlS0 video solución
         }
 
     }
