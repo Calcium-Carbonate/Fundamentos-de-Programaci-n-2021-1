@@ -73,7 +73,7 @@ namespace Casa_02
 
             Console.WriteLine("Gracias por jugar");
 
-
+// Video explicación https://youtu.be/huy8ma7pGGw?t=728
 
 
         }
