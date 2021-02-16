@@ -104,7 +104,7 @@ namespace _08_Ciclos__simulacro_
 
 
    
-
+                    //video solución https://youtu.be/huy8ma7pGGw?t=265
         }
     }
 }
