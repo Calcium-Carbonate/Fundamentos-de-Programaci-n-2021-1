@@ -29,6 +29,7 @@ class Evaluacion {
         int[] edades = ages;
         double[] notas = gpas;
         int salida = 0;
+        int n = 0;
         for (int i = 0; i < edades.Length; i++)
         {
 
@@ -51,14 +52,15 @@ class Evaluacion {
             }
         }
 
+        n = edades.Length / 2;
         if (edades.Length % 2 == 0)//cantidad de datos par
         {
-            mediana = ((edades[(edades.Length/2)-1])+(edades[(edades.Length / 2)]))/2.0 ;        
+            mediana = ((edades[n-1])+(edades[n]))/2.0 ;        
         }
 
         else
         {
-            mediana = edades[(edades.Length) / 2];
+            mediana = edades[n];
         }
 
         for (int i = 0; i < notas.Length; i++)
